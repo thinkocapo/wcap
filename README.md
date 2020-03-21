@@ -1,3 +1,13 @@
+# wcap
+epic-easley-6993bc
+
+When creating a new Gatsby site, you can use the following command structure to create a new site based on any existing Gatsby starter:
+
+```
+gatsby new [SITE_DIRECTORY_NAME] [URL_OF_STARTER_GITHUB_REPO]
+```
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">

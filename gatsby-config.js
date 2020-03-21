@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `WCAP`,
-    description: `Description of Travel & Photos, Books, Code Snippets, Accomplishments, Interests, Analysis`,
+    title: `Will Cap`,
+    description: `Travel & Photos, Books, Code Snippets, Accomplishments, Interests, Analysis`,
     author: `@gatsbyjs`,
   },
   plugins: [
