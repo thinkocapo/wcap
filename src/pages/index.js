@@ -9,10 +9,10 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>
+    <h2>
         <div style={{ color: "#5A8FA9" }}>
         Hello, I'm Will</div>
-    </h1>
+    </h2>
     <ul>
         {/* <li><p>I'm a software engineer. I work in sales</p></li> */}
         {/* <li><p>I travel. I play music. I read</p></li> */}

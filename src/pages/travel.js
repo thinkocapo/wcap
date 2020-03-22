@@ -7,9 +7,9 @@ import SEO from "../components/seo"
 
 import ReactMarkdown from 'react-markdown'
 
-const input = `\
-# Travel \n
-links are to albums in google photos\
+const input = `
+## Travel 
+links are to albums in google photos
 `
 // TODO style the markdown by wrapping <ReactMarkdown/> in a class. css bcomes .a_class > h1 { color: "#5A8FA9" }
 
