@@ -9,6 +9,8 @@ gatsby new [SITE_DIRECTORY_NAME] [URL_OF_STARTER_GITHUB_REPO]
 
 https://themeforest.net/search/developer%20resume
 
+https://www.color-hex.com/color-palette/89295
+
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">

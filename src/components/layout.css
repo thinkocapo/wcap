@@ -4,6 +4,17 @@
 .css-hyc5to {
     color: red;
 }
+.emoji {
+    display: inline!important;
+    border: none!important;
+    box-shadow: none!important;
+    height: 1em!important;
+    width: 1em!important;
+    margin: 0 .07em!important;
+    vertical-align: -.1em!important;
+    background: 0 0!important;
+    padding: 0!important;
+}
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
