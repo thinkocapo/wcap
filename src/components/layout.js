@@ -23,6 +23,11 @@ const Layout = ({ children }) => {
     }
   `)
 
+  var today = new Date();
+  var dd = String(today.getDate()).padStart(2, '0');
+  var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+  var yyyy = today.getFullYear();
+  
   return (
     <>
       <Header siteTitle={data.site.siteMetadata.title} />
@@ -35,9 +40,8 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          {/* {mm + '/' + dd + '/' + yyyy}  */}
+          {/* Built with <a href="https://www.gatsbyjs.org">Gatsby</a> */}
         </footer>
       </div>
     </>
