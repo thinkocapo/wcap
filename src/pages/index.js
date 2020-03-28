@@ -21,7 +21,7 @@ const IndexPage = () => (
     <ul>
         {/* <li><p>I'm a software engineer. I work in sales</p></li> */}
         {/* <li><p>I travel. I play music. I read</p></li> */}
-        <li>
+        {/* <li>
             <h4>
                 <Link to="/blog">
                     <div style={{ color: "#526189" }}>
@@ -29,12 +29,12 @@ const IndexPage = () => (
                     </div>
                 </Link>
             </h4>
-        </li>
+        </li> */}
         <li>
             <h4>
                 <a href="https://www.github.com/thinkocapo">
                     <div style={{ color: "#526189" }}>
-                        Github.com
+                        Github.com/thinkocapo
                     </div>
                 </a>
             </h4>
@@ -43,14 +43,14 @@ const IndexPage = () => (
             <h4>
                 <a href="https://www.linkedin.com/in/williamcapozzoli">
                     <div style={{ color: "#526189" }}>
-                        LinkedIn.com
+                        LinkedIn.com/williamcapozzoli
                     </div>
                 </a>
             </h4>
         </li>
         <li>
             <h4>
-                <Link to="/blog/software/">
+                <Link to="/software/">
                     <div style={{ color: "#526189" }}>
                         Software
                     </div>
