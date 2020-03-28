@@ -9,7 +9,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <p style={{ color: "#5A8FA9", marginBottom: "0.45rem" }}>
+    <p style={{ color: "#000", marginBottom: "0.45rem" }}>
         Hello, I'm Will {` `} 
         <img className="emoji" draggable="false" alt="🎉" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/whatsapp/116/party-popper_1f389.png"></img>
     </p>
@@ -34,7 +34,7 @@ const IndexPage = () => (
             <h4>
                 <a href="https://www.github.com/thinkocapo">
                     <div style={{ color: "#526189" }}>
-                        Github.com/thinkocapo
+                        github
                     </div>
                 </a>
             </h4>
@@ -43,7 +43,7 @@ const IndexPage = () => (
             <h4>
                 <a href="https://www.linkedin.com/in/williamcapozzoli">
                     <div style={{ color: "#526189" }}>
-                        LinkedIn.com/williamcapozzoli
+                        linkedIn
                     </div>
                 </a>
             </h4>
@@ -52,7 +52,7 @@ const IndexPage = () => (
             <h4>
                 <Link to="/software/">
                     <div style={{ color: "#526189" }}>
-                        Software
+                        software
                     </div>
                 </Link>
             </h4>
@@ -61,7 +61,7 @@ const IndexPage = () => (
             <h4>
                 <Link to="/travel">
                     <div style={{ color: "#526189" }}>
-                        Travel Photos
+                        travel photos
                     </div>
                 </Link>
             </h4>

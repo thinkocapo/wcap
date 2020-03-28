@@ -12,6 +12,11 @@ https://themeforest.net/search/developer%20resume
 https://www.color-hex.com/color-palette/89295
 
 
+develop localhost:8000
+serve localhost:9000
+commit and push, triggers Github<>Netlify deploy
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -111,3 +116,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+ThemeForest  
+https://www.youtube.com/watch?v=rWrlzVD-Zs8
