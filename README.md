@@ -1,4 +1,4 @@
-# wcap
+# willcap.io
 https://willcap."i"o
 
 When creating a new Gatsby site, you can use the following command structure to create a new site based on any existing Gatsby starter:

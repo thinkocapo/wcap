@@ -66,6 +66,15 @@ const IndexPage = () => (
                 </Link>
             </h4>
         </li>
+        <li>
+            <h4>
+                <Link to="/blog">
+                    <div style={{ color: "#526189" }}>
+                        blog
+                    </div>
+                </Link>
+            </h4>
+        </li>
     </ul>
     {/* <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
