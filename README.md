@@ -119,3 +119,30 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ThemeForest  
 https://www.youtube.com/watch?v=rWrlzVD-Zs8
+
+
+https://coolors.co/2e5266-6e8898-9fb1bc-d3d0cb-e2c044
+
+https://coolors.co/0d1321-ffeddf-c5d86d-86615c-afe0ce
+
+
+ https://coolors.co/0a2342-2ca58d-84bc9c-fffdf7-f46197
+
+#### other templates
+gatsby
+
+wasted space...too big of cards  
+https://templates.netlify.com/template/gatsby-dev-blog-fitzgerald/#about-deploy-to-netlify
+
+good previews. short and to the point. bloggy
+https://templates.netlify.com/template/gatsby-starter-blog/
+
+vue.js nuxt.js
+
+banner picture nice. card photos but no description
+https://templates.netlify.com/template/awake-blog-template-nuxt/  
+
+jekyll
+
+toolbar wit home / about /contact / blog  
+https://templates.netlify.com/template/jekyll-with-netlify-cms-boilerplate/
